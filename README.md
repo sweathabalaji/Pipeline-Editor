@@ -5,6 +5,9 @@ This app allows users to visually create and manage **Directed Acyclic Graphs (D
 
 ---
 
+## Image
+![Pipeline Editor UI]()
+
 ## ✨ Features
 
 - 🔧 **Add Nodes** dynamically with custom labels.
@@ -33,7 +36,7 @@ This app allows users to visually create and manage **Directed Acyclic Graphs (D
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/pipeline-editor.git
+git clone https://github.com/sweathabalaji/pipeline-editor.git
 cd pipeline-editor
 
 # 2. Install dependencies
