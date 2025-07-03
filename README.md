@@ -6,7 +6,7 @@ This app allows users to visually create and manage **Directed Acyclic Graphs (D
 ---
 
 ## Image
-![Pipeline Editor UI]()
+![Pipeline Editor UI](https://github.com/sweathabalaji/Pipeline-Editor/blob/3580b8d63babbf99f9ac384ab2089ae0190091da/working%20img%3Avid/image.png)
 
 ## ✨ Features
 
